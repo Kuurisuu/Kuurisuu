@@ -3,7 +3,7 @@
 
 Always open to any opportunity to learn and, above all, to strengthen my skills.
 
-- 🔭 Currently working on: **Safe and Sound** (Pet recovery platform).
+- 🔭 Currently working on: **Sanos y Salvos** (Pet recovery platform).
 
 - 🌱 Learning about: **Microservices on AWS and Cloud Architecture**.
 
