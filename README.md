@@ -1,33 +1,142 @@
-## Hi there, im Kurisu. 🌟
-### Computer Engineering Student | Future Full Stack Developer 🚀
+<div align="center">
 
-Always open to any opportunity to learn and, above all, to strengthen my skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Christian%20Mesa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-- 🔭 Currently working on: **Sanos y Salvos** (Pet recovery platform).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Building+cloud-native+applications;Learning+microservices+on+AWS;Exploring+cybersecurity;El+Psy+Congroo" alt="Typing SVG" />
 
-- 🌱 Learning about: **Microservices on AWS and Cloud Architecture**.
+<br/>
 
-- 💬 Ask me about: **Python, Frontend, and SQL**.
+<img src="https://komarev.com/ghpvc/?username=Kuurisuu&label=Profile%20Views&color=764BA2&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Cloud-764BA2?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Location-Chile-667EEA?style=flat-square" alt="Location" />
 
-- 🎮 Hobby: Recreating maps in **LittleBigPlanet 2**.
+</div>
 
-### My Skills ✨
+<br/>
 
-#### Languages & Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🧑‍💻 About Me
 
-#### Backend & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+```typescript
+const christian = {
+  role: "Computer Engineering Student",
+  focus: ["Full Stack Development", "Cloud Architecture", "Cybersecurity"],
+  currentProject: BarrioDigital,
+  learning: ["Microservices on AWS", "Vulnerability Analysis", "DevSecOps"],
+  askMeAbout: ["Spring Boot", "React / Next.js", "SQL", "Cloud Deployment"],
+  hobby: "Recreating maps in LittleBigPlanet 2 🎮",
+  motto: "Always open to learn and strengthen my skills"
+};
+```
 
-### 📫 Find me on:
+<br/>
 
-[![Codédex](https://img.shields.io/badge/Codédex-8A2BE2?style=for-the-badge&logo=codepen&logoColor=white)](https://www.codedex.io/@Kuri-neko)
+## 🛠️ Tech Stack
 
-\- El Psy Congroo
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,bootstrap&theme=dark" />
+
+### Backend & Languages
+<img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,nodejs&theme=dark" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git,github&theme=dark" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" height="48" />
+
+### Data Science
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="48" />
+
+### Security & Quality
+<img src="https://skillicons.dev/icons?i=kali,linux,postman&theme=dark" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Nessus-00A9E0?style=for-the-badge&logo=tenable&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="48" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuurisuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=764BA2&icon_color=667EEA" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuurisuu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=764BA2" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuurisuu&theme=tokyonight&hide_border=true&background=0D1117&ring=764BA2&fire=667EEA&currStreakLabel=764BA2" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuurisuu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=764BA2&line=667EEA&point=ffffff&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kuurisuu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/CEOAlmaloco/Sanos-y-salvos-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kuurisuu&repo=sanos-y-salvos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=764BA2&icon_color=667EEA" />
+</a>
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:christian.mesag.2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.codedex.io/@Kuri-neko">
+  <img src="https://img.shields.io/badge/Cod%C3%A9dex-8A2BE2?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<i>"El Psy Congroo"</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer" width="100%"/>
+
+</div>
