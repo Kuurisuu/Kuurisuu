@@ -67,17 +67,6 @@ const christian = {
 
 <br/>
 
-
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kuurisuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=764BA2&icon_color=667EEA&cache_seconds=86400" height="170em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuurisuu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=764BA2&cache_seconds=86400" height="170em" />
-</div>
-> My full contribution graph is displayed natively below this README.
- 
-<br/>
-
 ## 🚀 Featured Projects
  
 <div align="center">
